@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "demo-ziet",
+    "name": "demo-zeit",
     "public": true,
     "builds": [
         { "src": "*.js", "use": "@now/node" }
